@@ -32,14 +32,18 @@ Core: <br>
 ![image](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 
+## Rest-API Endpoints
 
-
-REST API Endpoints
 The Movieclub application provides a variety of REST API endpoints:
 
-Method	Endpoint	Request	Response	Functionality
-GET	/movies	-	JSON	Retrieve all movie entries
-GET	/movies/{movieId}	PATH VARIABLE (movieId)	JSON	Get details of a specific movie
-POST	/movies	BODY-JSON (movie)	JSON	Add a new movie
-POST	/register	BODY-JSON (userDetails)	JSON	Register a new user
-POST	/token	BODY-JSON (loginDetails)	JSON	Generate a JWT access token
+Service url: http://localhost:8080
+
+| HTTP METHOD | Endpoint           |          REQUEST            |   RESPONSE   |                 Function                    |
+|-------------|--------------------|-----------------------------|--------------|---------------------------------------------|
+| GET         |  /movies           |              -              |     JSON     | Retrieve all movie entries                  |
+| GET         |  /movies/{movieId} |   PATH VARIABLE (movieId)   |     JSON     | Get details of a specific movie             |
+| POST        |  /movies           |      BODY-JSON (movie)      |     JSON     | Add new movie                               |
+| POST        |  /register         | BODY-JSON (userDetails)     |     JSON     | Register a new user                         |
+| POST        |  /token            |  BODY-JSON (loginDetails)   |     JSON     | Generate a JWT access token                 |
+
+<br>
