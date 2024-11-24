@@ -10,6 +10,7 @@ Regular Updates of Movie Information
 Detailed Movie Entries: Title, genre, release date, and ratings
 
 AUTHOR: DAWID DREZEK
+
 LINKEDIN: https://www.linkedin.com/in/dawid-drezek
 
 Specification
