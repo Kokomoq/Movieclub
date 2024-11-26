@@ -1,4 +1,4 @@
-Movieclub
+#Movieclub
 
 The Movieclub application simplifies movie management and enhances user interaction by offering features like film cataloging, user registration, and secure access through modern web technologies. Built using Spring Boot, this project employs efficient caching and secure mechanisms for a seamless experience. It integrates with external APIs to fetch movie data, supporting manual additions while ensuring data uniqueness. Key features include:
 
@@ -31,7 +31,7 @@ Core: <br>
 ![image](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) &nbsp;
 ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring) &nbsp;
 ![image](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+
 
 ## Rest-API Endpoints
 
