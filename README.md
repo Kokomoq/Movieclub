@@ -1,5 +1,3 @@
-#Movieclub
-
 The Movieclub application simplifies movie management and enhances user interaction by offering features like film cataloging, user registration, and secure access through modern web technologies. Built using Spring Boot, this project employs efficient caching and secure mechanisms for a seamless experience. It integrates with external APIs to fetch movie data, supporting manual additions while ensuring data uniqueness. Key features include:
 
 Movie Catalog Management
